@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  direction: rtl;
+}
+
+.container {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  background-color: #fff;
+  color: #fff;
+  border-bottom: #0c9ff5;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  text-decoration: none;
+  gap: 12px;
+  list-style: none;
+  color: #fff;
+}
